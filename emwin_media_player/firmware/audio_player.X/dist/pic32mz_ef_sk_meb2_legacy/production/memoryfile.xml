@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/pic32mz_ef_sk_meb2_legacy/production/audio_player.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>2098304</length>                 
+      <used>509756</used>                     
+      <free>1588548</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>524288</length>                 
+      <used>348436</used>                     
+      <free>175852</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
